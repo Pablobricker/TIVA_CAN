@@ -1,7 +1,7 @@
-#Proyecto Red de sensores interconectados por CAN-BUS
+# Proyecto Red de sensores interconectados por CAN-BUS
 Proyecto final para la materia de sistemas embebidos semestre 2022-1
 
-##Contents:
+## Contents:
 -'IEEE_CAN.h' API's para la comunicación CAN-BUS por medio del controlador periférico
 -'GPIO_Interrupt.h' Drivers para manejo de interrupciones por nivel de voltaje en un pin
 -'UART7_Interrupt.h' Drivers para comunicación UART por medio del controlador periférico
